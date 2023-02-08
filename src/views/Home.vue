@@ -17,7 +17,7 @@ const videoOptions = {
   width: 350,
   sources: [
     {
-      src: '/video.mp4',
+      src: '/vite-vue3-ts-unocss-nativeui/video.mp4',
       type: 'video/mp4',
     },
   ],
